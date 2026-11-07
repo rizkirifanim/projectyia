@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.09031600457165,
+          -7.899148008508295
+        ]
+      },
+      "properties": {
+        "OGC_FID": 0,
+        "ID": "L10",
+        "Lokasi": "Lokasi Ke 10",
+        "Deskripsi": "Desa Plumbon",
+        "Longitude": "399725.00",
+        "Latitude": "9126742.06",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.078388922126,
+          -7.900777839033874
+        ]
+      },
+      "properties": {
+        "OGC_FID": 1,
+        "ID": "L9",
+        "Lokasi": "Lokasi Ke 9",
+        "Deskripsi": "",
+        "Longitude": "398410.56",
+        "Latitude": "9126558.97",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.06311111440704,
+          -7.88894442506331
+        ]
+      },
+      "properties": {
+        "OGC_FID": 2,
+        "ID": "L8",
+        "Lokasi": "Lokasi Ke 8",
+        "Deskripsi": "",
+        "Longitude": "396723.40",
+        "Latitude": "9127863.58",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.05905558121964,
+          -7.88105555716126
+        ]
+      },
+      "properties": {
+        "OGC_FID": 3,
+        "ID": "L7",
+        "Lokasi": "Lokasi ke 7",
+        "Deskripsi": "",
+        "Longitude": "396274.34",
+        "Latitude": "9128734.81",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.03227783995594,
+          -7.889138922453998
+        ]
+      },
+      "properties": {
+        "OGC_FID": 4,
+        "ID": "L6",
+        "Lokasi": "Lokasi ke 6",
+        "Deskripsi": "",
+        "Longitude": "393324.28",
+        "Latitude": "9127834.32",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.03569438339544,
+          -7.883722179063851
+        ]
+      },
+      "properties": {
+        "OGC_FID": 5,
+        "ID": "L5",
+        "Lokasi": "Lokasi ke 5",
+        "Deskripsi": "",
+        "Longitude": "393699.55",
+        "Latitude": "9128434.10",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.03955563965222,
+          -7.884527768790249
+        ]
+      },
+      "properties": {
+        "OGC_FID": 6,
+        "ID": "L4",
+        "Lokasi": "Lokasi Ke 4",
+        "Deskripsi": "",
+        "Longitude": "394125.44",
+        "Latitude": "9128346.01",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.01647219489531,
+          -7.847388868764794
+        ]
+      },
+      "properties": {
+        "OGC_FID": 7,
+        "ID": "L1",
+        "Lokasi": "Lokasi ke 1",
+        "Deskripsi": "",
+        "Longitude": "391570.95",
+        "Latitude": "9132446.41",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.99863886970732,
+          -7.815138922589852
+        ]
+      },
+      "properties": {
+        "OGC_FID": 8,
+        "ID": "L2",
+        "Lokasi": "Lokasi ke 2",
+        "Deskripsi": "",
+        "Longitude": "389596.23",
+        "Latitude": "9136007.54",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.94508331462437,
+          -7.842249997226569
+        ]
+      },
+      "properties": {
+        "OGC_FID": 9,
+        "ID": "L3",
+        "Lokasi": "Lokasi ke 3",
+        "Deskripsi": "",
+        "Longitude": "383698.42",
+        "Latitude": "9132995.49",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.07483333785383,
+          -7.89941666302253
+        ]
+      },
+      "properties": {
+        "OGC_FID": 10,
+        "ID": "MG",
+        "Lokasi": "Mess Glagah",
+        "Deskripsi": "",
+        "Longitude": "398018.26",
+        "Latitude": "9126708.60",
+        "Task": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.1056111049956,
+          -7.896611093998269
+        ]
+      },
+      "properties": {
+        "OGC_FID": 11,
+        "ID": "MP",
+        "Lokasi": "Mess Plumbon",
+        "Deskripsi": "",
+        "Longitude": "401410.52",
+        "Latitude": "9127026.20",
+        "Task": ""
+      }
+    }
+  ]
+}
